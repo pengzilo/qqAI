@@ -14,7 +14,7 @@
     <br/>
   </p>
 </p>
-
+ <a href="https://www.123pan.com/s/jT3Rjv-o8vjH.html/"><strong>文件下载地址</strong></a><br>
 ⚡ 支持
 
 [✔]关键词触发回复
