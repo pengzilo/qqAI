@@ -4,12 +4,13 @@
 ------------------------------------
 <p align="center">
   <h2 align="center">QQ and ChatGPT </h2>
+    <a href="https://github.com/RockChinQ/QChatGPT/"><strong>原先项目QChatGPT</strong></a><br>
   <p align="center">
 随着人工智能技术的不断发展，智能聊天机器人已经成为我们日常生活中不可或缺的一部分。ChatGPT作为一款强大的人工智能聊天模型，能够为我们提供高效、便捷的聊天体验。那么，如何将ChatGPT接入QQ，实现智能聊天新体验呢？本文将为你详细介绍。无需太多的要求，你只需要自备key即可，可以在这里获取
      <a href="https://api.wpzllq.top/"><strong> 可以在这里获取</strong></a><br>
     体验可以添加QQ1114362762
     <br/>
-    <a href="https://wpzllq.top/"><strong>» 查看使用教程 »</strong></a>
+    <a href="https://wpzllq.top/"><strong>» 超详细教程 »</strong></a>
     <br/>
   </p>
 </p>
