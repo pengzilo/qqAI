@@ -1,4 +1,4 @@
-# 一键部署！🚀QQ AI 聊天机器人🤖！支持ChatGPT、🚀文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教👽
+#一键部署！🚀QQ AI 聊天机器人🤖！支持ChatGPT、🚀文心一言、讯飞星火、Bing、Bard、ChatGLM、POE，多账号，人设调教👽
 
 ------------------------------------
 <p align="center">
@@ -12,7 +12,9 @@
     <a href="https://wpzllq.top/"><strong>» 超详细教程 »</strong></a>
     <br/>
   </p>
+  <a href="https://wpzllq.top"><strong>棚子AI已接入AI音乐，文生视频，插件系统功能 TTS语音对话功能、图片,文档分析功能 MJ文生图、垫图、AI换脸、混图、Dall-E3绘画</strong></a><br>
 </p>
+
  <a href="https://www.123pan.com/s/jT3Rjv-o8vjH.html/"><strong>文件下载地址</strong></a><br>
 ⚡ 支持
 
